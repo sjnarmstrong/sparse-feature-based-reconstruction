@@ -8,7 +8,7 @@ The FURN and SURF feature descriptors (from OpenCV) are used to match keypoints 
 
 ---
 
-## Table of Contents (Optional)
+## Table of Contents
 
 - [Installation](#installation)
 - [Usage](#usage)
